@@ -1,0 +1,7 @@
+git init
+git branch -M main
+git add .
+git commit .m"ombre de version"
+git push
+git pull
+git status
